@@ -1,6 +1,11 @@
 # Arabic Letters Classification Deep Learning
 A model that can recognize the alphabets of Arabic letters using deep learning.
 
+# Model
+RESNET18: https://pytorch.org/hub/pytorch_vision_resnet/
+
+Accuracy: 98%
+
 # Dataset
 The dataset can be found at:
 
